@@ -1,0 +1,1 @@
+var body = window.document(body);//这是一个body
