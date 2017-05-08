@@ -3,3 +3,4 @@ chanfe a.txt in dev and push dev to origin£¬23333
 change a.txt by another author
 change a.txt by another author again
 hahaha
+test merge
